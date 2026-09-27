@@ -1,0 +1,11 @@
+task: lane
+sha256: 629e3f9e7d0aebd0deb5dcdfeb18a9339b4630caa2eb94c2c0d38b841bdefa1f
+code: 629E-3F9E
+locked_at: 2026-09-27T10:29:55+07:00
+shapes: image_context=6, lane_marking=25
+cvat_owner: nguyenminhduc
+cvat_export: task 101 "lane-NguyenMinhDuc"
+cvat_created: 2026-09-27 08:35:12.000000+07:00
+cvat_dumped: 2026-09-27 09:22:10.000000+07:00
+shape_sources: manual=31
+relock_count: 0

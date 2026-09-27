@@ -1,0 +1,11 @@
+task: traffic_light
+sha256: 9352fa1e054ad01610a8c23eb0a7a5389facc48319567b6a80735b6150ba7c86
+code: 9352-FA1E
+locked_at: 2026-09-27T10:33:19+07:00
+shapes: traffic_light=90
+cvat_owner: nguyenminhduc
+cvat_export: task 104 "light-NguyenMinhDuc"
+cvat_created: 2026-09-27 11:00:00.000000+07:00
+cvat_dumped: 2026-09-27 11:46:00.000000+07:00
+shape_sources: manual=3
+relock_count: 0

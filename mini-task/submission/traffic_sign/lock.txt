@@ -1,0 +1,11 @@
+task: traffic_sign
+sha256: cfaac1ea12af5725bd1e74146932c199fa6dbb8712a4684919d297e707562fc6
+code: CFAA-C1EA
+locked_at: 2026-09-27T10:32:38+07:00
+shapes: traffic_sign=21
+cvat_owner: nguyenminhduc
+cvat_export: task 103 "sign-NguyenMinhDuc"
+cvat_created: 2026-09-27 10:20:00.000000+07:00
+cvat_dumped: 2026-09-27 10:56:00.000000+07:00
+shape_sources: manual=21
+relock_count: 0
